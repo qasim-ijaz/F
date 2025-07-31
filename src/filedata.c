@@ -41,7 +41,7 @@ void file_data_type(struct stat *st)
 
 void file_data_inode(struct stat *st)
 {
-     printf("[Inode Numer]: %ld\n", st->st_ino);
+     printf("[Inode Number]: %ld\n", st->st_ino);
 }
 
 void file_data_time(struct stat *st)
