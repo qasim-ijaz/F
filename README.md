@@ -3,7 +3,7 @@
 
 **F** is a command line utility written for Linux for file manipulation and management. Although **F** is made for file manipulation tasks, it is not limited to files, most operations support directories as well as files. 
 
-<img width="1161" height="829" alt="Screenshot from 2025-07-31 14-25-03" src="https://github.com/user-attachments/assets/8faec9c5-242c-4493-81b6-f245542af2f9" />
+<img width="1000" height="750" alt="Screenshot from 2025-07-31 14-25-03" src="https://github.com/user-attachments/assets/8faec9c5-242c-4493-81b6-f245542af2f9" />
 
 Installation and Usage
 ======================
